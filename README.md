@@ -2,6 +2,30 @@
 
 Hello digital composer! Welcome to my Project Reflection web design tool, powered by Stasis Theory. I'm glad you found it--we're going to adapt a 2,000-year-old formula to help you pitch an idea, explaining who you are and what you want, why it's important, and what it will do for your audience. I use this document in my Technical Communications classes at the University of Pittsburgh to teach my students a little bit about rhetoric, and a little bit about computer science. Just follow along and with comments like this, and you will make a really cool web document that helps you process your experience, learn a little bit about coding, and strategically package the work you have accomplished in your project/internship/teaching assistantship. 
 
-To get started, simply open the index.html file using a code editor (brackets.io / atom.io, etc.). All of the instructions for building/replacing content are embedded in the code. 
+##Get Started
 
-Head to [Pitt Fuego](http://pitt.edu/~sjq4/PittFuego/#Introductions) to see all of our other cool coding projects. 
+
+1. Create a GitHub account. 
+
+2. Go to the the Elevator Pitch repository: [HERE](https://github.com/Pitt-Fuego/stasis-theory-machine)
+
+3. Click "Code": Download ZIP to local computer. 
+
+4. Go ahead and put these files in a secure place (folder) where you will be able to find them and where you will organize your other assets like images, pdfs, etcetera. 
+
+5. Download and/or open a text editor like [brackets.io](https://brackets.io), [atom.io](https://atom.io), or [notepad-plus-plus.org](notepad-plus-plus.org). 
+
+6. Use the text editor to open the style.css and index.html documents from your project folder.  
+
+7. Start by reading the index.html in text editor where you'll find instructions on how to build your own web text!
+
+8. Once you have modified and added your files to your project file, return to your GitHub page and create a new repository. Click  upload (push) your files. Upload, then hit "Commit!" 
+
+9. Go to repository settings, scroll down to Github pages, change setting from "none" to "main."  
+
+10. This will provide you with a published GitHub URL.
+
+11. Test the URL. Magic, no? Actually, it's computer science.  
+
+Check out our other cool coding tools [HERE](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
+
