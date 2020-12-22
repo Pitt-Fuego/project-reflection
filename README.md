@@ -1,6 +1,6 @@
 # Project Reflection
 
-Welcome to the Project Reflection Metacognition Tool, powered by Stasis Theory. You'll make a really cool web document that helps you process your learning experience. Through the process, you'll learn a little bit about coding while you strategically package the work you have accomplished in your project/internship/teaching assistantship.  
+Welcome to our Project Reflection metacognition tool, powered by Stasis Theory. You'll make a really cool web document that helps you process your learning experience. Through the process, you'll learn a little bit about coding while you strategically package the work you have accomplished in your project/internship/teaching assistantship.  
 
 ##Get Started
 
