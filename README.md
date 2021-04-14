@@ -5,7 +5,7 @@ Welcome to our Project Reflection metacognition tool, powered by Stasis Theory. 
 ##Get Started
 
 
-1. Go to the the Elevator Pitch repository: [HERE](https://github.com/Pitt-Fuego/stasis-theory-machine)
+1. Go to the the [Project Reflection Repository](https://github.com/Pitt-Fuego/project-reflection)
 
 2. Click "Code" then "Download ZIP" to your local computer. 
 
