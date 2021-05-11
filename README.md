@@ -2,7 +2,7 @@
 
 Welcome to our Project Reflection metacognition tool, powered by Stasis Theory. You'll make a really cool web document that helps you process your learning experience. Through the process, you'll learn a little bit about coding while you strategically package the work you have accomplished in your project/internship/teaching assistantship.  
 
-##Get Started
+## Get Started
 
 
 1. Find the green "Code" button at the top of this repository [Project Reflection Repository](https://github.com/Pitt-Fuego/project-reflection)
