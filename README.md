@@ -11,7 +11,7 @@ Welcome to our Project Reflection metacognition tool, powered by Stasis Theory. 
 
 3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera. 
 
-4. For Mac, Windows, and Linux, download and/or open a code editor like [atom.io](https://atom.io) or any code editor of your choice. If you are using a Chromebook O.S., we recommend Caret. 
+4. For Mac, Windows, and Linux, download and/or open a code editor like [atom.io](https://atom.io) or any code editor of your choice. If you use a Chromebook O.S., we recommend Caret. 
 
 5. Use the code editor to open the index.html and style.css documents from your project folder.  
 
